@@ -10,7 +10,7 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn 
+**Packages:** pandas, numpy, matplotlib, seaborn 
 
 ## Dataset Features and Descripment
 * Ship Mode    - Shipping mode of the purchased products
