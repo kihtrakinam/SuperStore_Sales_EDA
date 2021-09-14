@@ -37,8 +37,12 @@
 * **Correlation and Pair plot** - Distribution and the relation between the numerial variables
 * **Bivariate and multivariate Analysis** - Plotting Pieplot and Barplots to visualize and infer the significance of the features
 
+## Important Graphs
+1. New York and Los Angeles among top 10 Revenue contributing Cities
 ![alt text](https://github.com/kihtrakinam/EDA/blob/4aa7d26a56560693b5586a13fd827485143f398e/top_rev_city_10.png "Top 10 Cities by Revenue")
+2. Relatively smaller cities such as Jameston and Independence have higher revenue and profit per purchase on average
 ![alt text](https://github.com/kihtrakinam/EDA/blob/f7ff2bc23ec70a0f9ce3e7db63b3f434334700f3/avg_rev_prof_city.png "Top Avg Revenue and Profit Cities")
+3. Central Region trending in less profits because of loss in Furniture category
 ![alt text](https://github.com/kihtrakinam/EDA/blob/f690b9fd86b8a22cc58533a3a5bf493e67a7e177/Central_Category.png "Revenue and Profit in Central US by Category")
 
 
