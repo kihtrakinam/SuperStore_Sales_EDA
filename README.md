@@ -39,19 +39,19 @@
 
 ## Important Graphs
 1. New York and Los Angeles among top 10 Revenue contributing Cities
-![alt text](https://github.com/kihtrakinam/EDA/blob/4aa7d26a56560693b5586a13fd827485143f398e/top_rev_city_10.png "Top 10 Cities by Revenue")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/4aa7d26a56560693b5586a13fd827485143f398e/top_rev_city_10.png "Top 10 Cities by Revenue")
 2. Relatively smaller cities such as Jameston and Independence have higher revenue and profit per purchase on average
-![alt text](https://github.com/kihtrakinam/EDA/blob/f7ff2bc23ec70a0f9ce3e7db63b3f434334700f3/avg_rev_prof_city.png "Top Avg Revenue and Profit Cities")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/f7ff2bc23ec70a0f9ce3e7db63b3f434334700f3/avg_rev_prof_city.png "Top Avg Revenue and Profit Cities")
 3. Central Region trending in less profits because of loss in Furniture category
-![alt text](https://github.com/kihtrakinam/EDA/blob/f690b9fd86b8a22cc58533a3a5bf493e67a7e177/Central_Category.png "Revenue and Profit in Central US by Category")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/f690b9fd86b8a22cc58533a3a5bf493e67a7e177/Central_Category.png "Revenue and Profit in Central US by Category")
 4. Office supplies have been given high discount at times, but Furnitures have wider possible range of discount
-![alt text](https://github.com/kihtrakinam/EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Discount_cat.png "Discount Distribution by Category")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Discount_cat.png "Discount Distribution by Category")
 5. Products on technology category yields best revenue and profit per purchase
-![alt text](https://github.com/kihtrakinam/EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Category.png "Top Avg Revenue and Profit Cities")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Category.png "Top Avg Revenue and Profit Cities")
 6. Copiers yield 10x profit per purchase comparatively
-![alt text](https://github.com/kihtrakinam/EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Technology_sub_category.png "Copiers are imp")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Technology_sub_category.png "Copiers are imp")
 7. First Class Shipping mode should be promoted
-![alt text](https://github.com/kihtrakinam/EDA/blob/19069426f8b711fd2283757650a989be419b1e85/Ship_Mode.png "Copiers are imp")
+![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/19069426f8b711fd2283757650a989be419b1e85/Ship_Mode.png "Copiers are imp")
 
 
 ## Important Business Inferences
