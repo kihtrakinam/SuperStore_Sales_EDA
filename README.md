@@ -51,7 +51,7 @@
 ![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Category.png "Top Avg Revenue and Profit Cities")
 6. Copiers yield 10x profit per purchase comparatively
 ![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/ae106e1c77a60aaf99aff013dde6501214bdb175/Technology_sub_category.png "Copiers are imp")
-7. First Class Shipping mode should be promoted
+7. Standard Class is the most preferred. First Class Shipping mode yield more profit per purchase
 ![alt text](https://github.com/kihtrakinam/SuperStore_Sales_EDA/blob/19069426f8b711fd2283757650a989be419b1e85/Ship_Mode.png "Copiers are imp")
 
 
@@ -61,4 +61,4 @@
 2. Company gets high revenue from popular cities such New York, Los Angeles and Seattle, but small cities such as Jameston, Independence shows promise with high average revenue and profit per purchase
 3. Technology product category yields the best average profit per purchase
 4. In technology related products, copier gives 10x profit compared with any other sub category
-5. 'First Class' shipping modes have better revenue and profit per purchase but has less market share. Let's promote it
+5. 'First Class' shipping modes have better revenue and profit per purchase than others but has less market share. Let's promote it
