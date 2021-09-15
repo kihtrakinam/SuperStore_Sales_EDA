@@ -1,11 +1,12 @@
 # EDA on Super Store Sales: Project Overview 
 * Use Statistics and Visualization techniques and understand the sales dataset and get business inferences
+* Model building - Pending
 
 # Important EDA Questions
 * Understanding our geographic spread of customers in US
 * Check if any geographic region or city has significantly less profit and address why
 * Check for any promising states/cities to expand our business
-* Understanding which category sold improved revenue and profit
+* Understanding which category of products have high revenue and profit
 * Does shipping mode has any effect on revenue and profit
 
 ## Code and Resources Used 
@@ -60,4 +61,4 @@
 2. Company gets high revenue from popular cities such New York, Los Angeles and Seattle, but small cities such as Jameston, Independence shows promise with high average revenue and profit per purchase
 3. Technology product category yields the best average profit per purchase
 4. In technology related products, copier gives 10x profit compared with any other sub category
-5. Company should promote 'First Class' shipping modes for better revenue and profit per purchase 
+5. 'First Class' shipping modes have better revenue and profit per purchase but has less market share. Let's promote it
